@@ -1,0 +1,7 @@
+- 👋 Hi, I’m nebulæ
+- 👀 I’m interested in OS/kernel development
+- 🌱 I’m currently learning kernel development
+- 💞️ I’m looking to collaborate on nothing, tbh
+- 📫 How to reach me on [my email](mailto:mar1lusk1@proton.me), I will probably take a while to respond because I don't read emails nor want to
+- 😄 Pronouns: He, Him
+- ▶️ go to [source hut](https://sr.ht/~mariluski) to find cool projects
